@@ -77,3 +77,10 @@ fields:
   type: text
   hidden: true
   default: home
+- type: text
+  name: hsdf
+  label: Some requirment of the template?
+  description: sdfgdfsg
+  hidden: false
+  config:
+    required: false
