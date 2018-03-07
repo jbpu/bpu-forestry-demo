@@ -1,7 +1,7 @@
 ---
 title: T&D
-heading: T&D
-sub_heading: Power Movers
+heading: Belkirk College
+sub_heading: Engineering and Health Sciences
 layout: home
 date: 2018-03-07 13:36:19 +0000
 banner_image: "/uploads/2018/02/17/building.jpg"
